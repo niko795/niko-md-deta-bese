@@ -1,5 +1,5 @@
 {
-  "join" : "https://chat.whatsapp.com/ExBBsJ0NcbHFtIewWz3Hty"
+  "join" : "https://chat.whatsapp.com/JTCqSNipns51oUuIo469it"
 
 }
                         
